@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ren2be
-- 👀 I’m interested in front end development
-- 🌱 I’m reviewing HTML, CSS, and JavaScript
+- 👀 I’m interested in data analytics and machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
